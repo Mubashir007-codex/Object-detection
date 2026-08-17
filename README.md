@@ -67,3 +67,4 @@ in view. Press `q` to quit.
   make sure you're not accidentally running on a huge video resolution.
 - **`ModuleNotFoundError`**: re-run `pip install -r requirements.txt`
   inside the same Python environment you're running the script from.
+![alt text](image.png)
